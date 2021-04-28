@@ -1,0 +1,12 @@
+{
+  "name": "name-generator",
+  "version": "1.0.0",
+  "description": "Package that generates random house names",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
